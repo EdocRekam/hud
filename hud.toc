@@ -1,0 +1,11 @@
+## Title: Hud
+## Interface: 60000
+## Notes: Heads Up Display
+## Author: Edoc Rekam
+## Version: 0
+## X-License: BSD
+hudData.lua
+hudEvents.lua
+hudReader.lua
+hudHost.lua
+hud.lua
